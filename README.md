@@ -1,12 +1,12 @@
 # NetEase-Cloud
-这是一个使用了vue3 + axios + router + vuex + ElementUI模拟网易云网站。
-如果你要打开这个网站，首先要开启网易云API
->1.找到我的网易云API下载，打开目录的bush
->2.$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
->3.$ npm install
->4.$ node app.js
->5.打开终端 npm run start将服务器开启
->6.再将项目开启 npm run serve
+这是一个使用了vue3 + axios + router + vuex + ElementUI模拟网易云部分功能网站。
+如果你要打开这个网站，首先要开启[网易云API](https://github.com/Binaryify/NeteaseCloudMusicApi)
+>- 1.找到网易云API下载，打开目录的bush,我的保存在D:\App\Nodejs\www\07\NeteaseCloudMusicApi-master
+>- 2.$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+>- 3.$ npm install
+>- 4.$ node app.js
+>- 5.打开终端 npm run start将服务器开启
+>- 6.再将项目开启 npm run serve
 
 介绍我的模拟网易云效果图
 #首页
